@@ -1,4 +1,4 @@
-# Hi, I'm Amr
+# Hey, I'm Amr
 
 ## About Me
 I'm a Junior Student in Electronics and Electrical Communications Department, Cairo University.
