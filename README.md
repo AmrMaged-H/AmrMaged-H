@@ -1,8 +1,8 @@
-## Hi, I'm Amr
+# Hi, I'm Amr
 
-# About Me
+## About Me
 I'm a Junior Student in Electronics and Electrical Communications Department, Cairo University.
 
-# My Resume
+## My Resume
 [Amr Maged Hassan.pdf](https://github.com/AmrMaged-H/AmrMaged-H/files/8647895/Amr.Maged.Hassan.pdf)
 
